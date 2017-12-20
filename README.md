@@ -6,16 +6,7 @@ typical questions that already answer many of the questions that are asked again
 
 ---
 
-* [What is a NullReferenceException, and how do I fix it?](https://stackoverflow.com/questions/4660142/what-is-a-nullreferenceexception-and-how-do-i-fix-it/4660186#4660186)
-
-    Any question regarding `NullReferenceException` that ends up asking "why do I get this?".
-    
-    The reason why this is a good duplicate is that in almost every single case the real answer
-    is to debug more, and to uncover the reason why there was an expectation that something
-    wasn't `null` when clearly something has assigned `null` to it. Every such question is different,
-    so even if the OP says "My question is different", there should be a really good reason given
-    for why that is before the question is reopened.
-    
+* [What is a NullReferenceException, and how do I fix it?](https://stackoverflow.com/questions/4660142/what-is-a-nullreferenceexception-and-how-do-i-fix-it/4660186#4660186) [when? why?](SO4660142).
 * [How do I convert a string into safe SQL String?](https://stackoverflow.com/questions/5528972/how-do-i-convert-a-string-into-safe-sql-string)
 
     Any question regarding how to properly "encode" or "escape" characters so that one can "safely"
